@@ -1,0 +1,49 @@
+{
+"Dashboard":"Dashboard",
+  "Jobs":"Jobs",
+  "Manpower":"Manpower",
+  "Embassy":"Embassy",
+  "Insurance":"Insurance Company",
+  "Medical center":"Medical center",
+  "Banks":"Banks",
+  "Country":"Country",
+  "News":"News",
+  "Catagory":"Catagory",
+  "Latest Jobs":"Latest Jobs",
+  "View all":"View all",
+  "Notice":"Notice",
+  "Log in": "Log in",
+  "Contact us": "Contact us",
+  "About us": "About us",
+  "Login": "Login",
+  "Username": "Username",
+  "Password": "Password",
+  "Forget Password?":"Forget Password",
+  "Register":"Register",
+  "New user?Register":"New user?Register",
+  "Your user name":"Your user name",
+  "please enter the username":"please enter the username",
+  "mobile number":"mobile number",
+  "Mobile number is required":"Mobile number is required",
+  "Email is required":"Email is required",
+  "Password is required":"Password is required",
+  "Confirm Password":"Confirm Password",
+  "confirm password required":"confirm password required",
+  "Welcome to Family": "Welcome to Family",
+  "Mobile number must 10 digits": "Mobile number must 10 digits",
+  "Invalid email": "Invalid email",
+  "Password must be at least 8 digit":"Password must be at least 8 digit",
+  "Password Not Match":"Password Not Match",
+  "Already have account?Back to login":"Already have account?Back to login",
+  "Invalid mobile number":"Invalid mobile number",
+  "Email":"Email",
+  "enter your password":"enter your password",
+  "Retype password":"Retype password ",
+  "Username is required":"Username is required"
+
+
+
+
+
+
+}

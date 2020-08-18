@@ -1,0 +1,50 @@
+{
+    "Dashboard":"ड्यासबोर्ड",
+    "Jobs":"रोजगारहरू",
+    "Manpower":"म्यानपावर कम्पनी",
+    "Embassy":"दूतावासहरू",
+    "Insurance":"बीमा कम्पनीहरु",
+    "Medical center":"चिकित्सा केन्द्र",
+    "Banks":"बैंकहरू",
+    "Country":"देश",
+    "News":"समाचार",
+    "Catagory":"क्याटागोरी",
+    "Latest Jobs":"भर्खरको कामहरू",
+    "View all":"सबै हेर्नुहोस्",
+    "Notice":"सूचना",
+    "Log in": "लग - इन",
+    "Contact us": "हामीलाई सम्पर्क गर्नुहोस",
+    "About us": "हाम्रोबारे",
+    "Login": "लग - इन",
+    "Username": "प्रयोगकर्ता नाम",
+    "Password": "पासवर्ड",
+    "Forget Password?":"पासवर्ड बिर्सनुभयो?",
+    "Register":"रेजिष्टर गर्नुहोस्",
+    "New user?Register":"नयाँ प्रयोगकर्ता?रेजिष्टर गर्नुहोस्",
+    "Your user name":"तपाईको प्रयोगकर्ता नाम",
+    "please enter the username":"कृपया प्रयोगकर्ता नाम प्रविष्ट गर्नुहोस्",
+    "mobile number":"मोबाइल नम्बर",
+    "Mobile number is required":"मोबाइल नम्बर आवश्यक छ",
+    "Email is required":"ईमेल आवश्यक छ",
+    "Password is required":"पासवर्ड आवश्यक छ",
+    "Confirm Password":"पासवर्ड सुनिश्चित गर्नुहोस",
+    "confirm password required":"कन्फर्म पासवर्ड आवश्यक छ",
+    "Welcome to Family": "परिवारमा स्वागत छ",
+    "Mobile number must 10 digits": "मोबाइल नम्बर १० अंक हुनुपर्दछ",
+    "Invalid email": "अवैध ईमेल",
+    "Password must be at least 8 digit":"पासवर्ड कम्तिमा आठ अंकको हुनुपर्दछ",
+    "Password Not Match":"पासवर्ड मिलेन?",
+    "Already have account?Back to login":"पहिले नै खाता छ? लगईन मा फिर्ता",
+    "Invalid mobile number":"अवैध मोबाइल नम्बर",
+    "Email":"ईमेल",
+    "enter your password":"तपाईको पासवर्ड प्रविष्ट गर्नुहोस्",
+    "Retype password":"पासवर्ड पुन: लेख्नुहोस",
+    "Username is required":"प्रयोगकर्ता नाम आवश्यक छ"
+
+
+
+
+
+
+}
+
